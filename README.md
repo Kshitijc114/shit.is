@@ -1,0 +1,2 @@
+# shit.is
+For starters
