@@ -1,2 +1,9 @@
 # shit.is
-For starters
+
+This is a code player that allows you to run HTML, CSS and JS code.
+The output window shows live/real-time result so there's no need to compile the code and run the code to see the output.
+
+More functionalities like sign-up & login, light & dark themes, css enable & disable button, etc will soon be added.
+Suggestions and ideas are more than welcome.
+
+Thanks
